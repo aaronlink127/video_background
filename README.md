@@ -1,2 +1,2 @@
-# video_background
-Video Background for Powercord
+# Video Background
+Injects a video element directly into the bg element, requires a theme to use properly. Also includes a settings tab to adjust various settings, such as volume, video fill mode, and the video url itself. Does not support local files as of now, only remote videos.

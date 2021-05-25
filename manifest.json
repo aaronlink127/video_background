@@ -1,0 +1,7 @@
+{
+  "name": "Video Background",
+  "version": "1.0.0",
+  "description": "Replaces bg element with a video, use with transparent theme.",
+  "author": "aaronlink127",
+  "license": "MIT"
+}
